@@ -24,6 +24,7 @@ Installation
 bash
 
 pip install requests beautifulsoup4
+
 Usage
 Scraping a Website
 python
